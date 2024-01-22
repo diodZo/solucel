@@ -129,7 +129,7 @@
 
   function clicka(link) {
         window.document.location = link;
-  }s
+  }
     </script>
 
     <style>

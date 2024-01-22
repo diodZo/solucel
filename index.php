@@ -135,7 +135,7 @@ setInterval( function() {
           </div>
 
           <div class="contenedor">
-            <img class="img-responsive" src="http://solucel.com.ar/wp-content/uploads/2015/10/logo_solucel.png"/>
+            <img class="img-responsive" src="Assets/img/logo-cosme.png"/>
             <br>
             <hr class="style14">
 

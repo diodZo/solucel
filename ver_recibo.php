@@ -28,12 +28,13 @@
 				<div class="column left">
 					<div class="container">
 						<div class="row text-left">
-							<img src="http://solucel.com.ar/ml/logo_solucel.png" alt="logo" style="height:45px; whidth:208px; margin-top: 20px;margin-bottom : 15px">
+							<img src="Assets/img/logo-cosme.png" alt="logo" 
+							style="height:45px; whidth:208px; margin-top: 20px;margin-bottom : 15px">
 						</div>
 
-						<div class="row text-left negrita h3">Solucel S.R.L.</div>
-						<div class="row text-left h3">Direccion</div>
-						<div class="row text-left h3">Telefono</div>
+						<div class="row text-left negrita h3">Cosme tecnologies</div>
+						<div class="row text-left h3">avenida cosmelandia</div>
+						<div class="row text-left h3">+5694565685</div>
 					</div>
 				</div>
 
@@ -93,7 +94,7 @@
 
 				<section id="firma">
 					<div id="hr" class="pull-right">&nbsp;</div>
-					<p class="text-right">Mi Empresa</p>
+					<p class="text-right">Cosme tecnologies</p>
 				</section>
 
 			</footer>
